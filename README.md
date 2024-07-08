@@ -19,9 +19,9 @@ This repository contains a shell script that lists users with read access (pull 
 1. **Clone the repository** :
 
    
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/shpy07/Simple-Shell-Script.git
 
-   cd repo-name
+   cd Simple-Shell-Script
 
 3. **Make the script executable** :
 
